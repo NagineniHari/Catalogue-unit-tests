@@ -8,8 +8,8 @@ pipeline {
     environment {
         COURSE = "Jenkins"
         appVersion = ""
-        ACC_ID = "160885265516"
-        PROJECT = "roboshop"
+        ACC_ID = "996058207546"
+        PROJECT = "safety"
         COMPONENT = "catalogue"
     }
     options {
